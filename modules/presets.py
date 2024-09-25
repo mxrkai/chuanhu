@@ -53,55 +53,9 @@ CHUANHU_DESCRIPTION = i18n("由Bilibili [土川虎虎虎](https://space.bilibili
 
 
 ONLINE_MODELS = [
-    "GPT3.5 Turbo",
-    "GPT-4o",
-    "GPT-4o-mini",
-    "GPT4 Turbo",
-    "GPT3.5 Turbo Instruct",
-    "GPT4",
-    "o1-preview",
-    "o1-mini",
-    "Claude 3 Haiku",
-    "Claude 3.5 Sonnet",
-    "Claude 3 Opus",
-    "川虎助理",
-    "川虎助理 Pro",
-    "DALL-E 3",
-    "Gemini Pro",
-    "Gemini Pro Vision",
-    "Groq LLaMA3 8B",
-    "Groq LLaMA3 70B",
-    "Groq LLaMA2 70B",
-    "Groq Mixtral 8x7B",
-    "Groq Gemma 7B",
-    "GooglePaLM",
-    "Gemma 2B",
-    "Gemma 7B",
-    "xmchat",
-    "Azure OpenAI",
-    "yuanai-1.0-base_10B",
-    "yuanai-1.0-translate",
-    "yuanai-1.0-dialog",
-    "yuanai-1.0-rhythm_poems",
-    "minimax-abab5-chat",
-    "midjourney",
-    # 兼容旧配置文件，待删除
-    "讯飞星火大模型V4.0",
-    "讯飞星火大模型V3.5",
-    "讯飞星火大模型V3.0",
-    "讯飞星火大模型V2.0",
-    "讯飞星火大模型V1.5",
-    # 新的名称
-    "讯飞星火4.0 Ultra",
-    "讯飞星火Max",
-    "讯飞星火Pro 128K",
-    "讯飞星火Pro",
-    "讯飞星火V2.0",
-    "讯飞星火Lite",
-    "ERNIE-Bot-turbo",
-    "ERNIE-Bot",
-    "ERNIE-Bot-4",
-    "Ollama"
+    "gemma2-9b-it",
+    "gpt-4o-mini",
+    "gpt-4o"
 ]
 
 LOCAL_MODELS = [
